@@ -15,6 +15,3 @@ Datasets:
 - TED transcripts
 - Mozilla Common Voice
 - Synthetic speech dataset
-
-Notebook:
-- Colab notebook for preprocessing, feature extraction, and classification models.
