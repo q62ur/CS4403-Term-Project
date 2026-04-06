@@ -23,4 +23,4 @@ Datasets:
 
 ## Final Code
 
-- Final Analysis Notebook (in code folder): code/FinalReport.ipynb
+- Final Analysis Notebook: [Notebook](code/FinalReport.ipynb)
