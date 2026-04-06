@@ -18,9 +18,9 @@ Datasets:
 
 ## Final Deliverables
 
-- Final Report: [Final_Report_CS4403.pdf](report/Final_Report_CS4403.pdf)  
-- Presentation Slides: [Final_Presentation_CS4403.pptx](report/Final_Presentation_CS4403.pptx)  
+- Final Report: [Data Mining Final Report.docx](Data%20Mining%20Final%20Report.docx)  
+- Presentation Slides: [CS 4403 Final PPT.pdf](CS%204403%20Final%20PPT.pdf)  
 
 ## Final Code
 
-- Final Analysis Notebook: [Final_Analysis_CS4403.ipynb](code/Final_Analysis_CS4403.ipynb)
+- Final Analysis Notebook: [FinalReport.ipynb](code/FinalReport.ipynb)
