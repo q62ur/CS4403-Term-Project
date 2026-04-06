@@ -18,8 +18,8 @@ Datasets:
 
 ## Final Deliverables
 
-- Final Report: [Data Mining Final Report.docx](Data%20Mining%20Final%20Report.docx)  
-- Presentation Slides: [CS 4403 Final PPT.pdf](CS%204403%20Final%20PPT.pdf)  
+- Final Report: [Final Report](final_report_cs4403.docx)
+- Presentation Slides: [Presentation Slides](final_presentation_cs4403.pdf)
 
 ## Final Code
 
