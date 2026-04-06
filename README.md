@@ -15,3 +15,8 @@ Datasets:
 - TED transcripts
 - Mozilla Common Voice
 - Synthetic speech dataset
+
+## Final Deliverables
+
+- Final Report: report/Final_Report_CS4403.pdf  
+- Presentation Slides: report/Final_Presentation_CS4403.pptx  
