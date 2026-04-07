@@ -11,15 +11,34 @@ This repository will be updated throughout the term with datasets, analysis code
 
 CS4403 Data Mining Project
 
-Datasets:
-- TED transcripts
-- Mozilla Common Voice
-- Synthetic speech dataset
+## Datasets
+
+- TED transcripts (in data folder): [transcripts.zip](data/transcripts.zip) 
+- Mozilla Common Voice (in data folder): [cv-valid-train.csv](data/cv-valid-train.csv)  
+- Synthetic speech dataset (in data folder): [synthetic_speech_dataset_2000.csv](data/synthetic_speech_dataset_2000.csv) 
+- TED metadata (in data folder): [ted_main.csv](data/ted_main.csv)
+
+---
+
+## Proposal
+[Proposal](report/Term_Project_CS4403_Proposal.pdf)
+
+---
+
+## Interim Report
+[Interim Report](report/Interim_Report_CS4403_TermProject.pdf)
+
+---
+
+## Interim Code
+- Final Analysis Notebook: [Notebook](code/InterimReport.ipynb) 
+
+---
 
 ## Final Deliverables
 
-- Final Report (in report folder): report/Data Mining Final Report.docx  
-- Presentation Slides (in report folder): report/CS 4403 Final PPT.pdf  
+- Final Report (in report folder): [Final Report](report/Data_Mining_Final_Report.docx)  
+- Presentation Slides (in report folder): [Final PPT](report/CS4403_Final_PPT.pdf)  
 
 ## Final Code
 
