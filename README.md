@@ -11,7 +11,7 @@ This repository will be updated throughout the term with datasets, analysis code
 
 CS4403 Data Mining Project
 
-## Datasets (in data folder)
+## Datasets (in `data` folder)
 
 - TED transcripts:          [transcripts.zip](data/transcripts.zip) 
 - Mozilla Common Voice:     [cv-valid-train.csv](data/cv-valid-train.csv)  
@@ -21,23 +21,23 @@ CS4403 Data Mining Project
 ---
 
 ## Proposal
-- Project Proposal (in report folder): [Proposal](report/Term_Project_CS4403_Proposal.pdf)
+- Project Proposal (in `report` folder): [Proposal](report/Term_Project_CS4403_Proposal.pdf)
 
 ---
 
 ## Interim Report
-- Interim report (in report folder): [Interim Report](report/Interim_Report_CS4403_TermProject.pdf)
+- Interim report (in `report` folder): [Interim Report](report/Interim_Report_CS4403_TermProject.pdf)
 
 ---
 
 ## Interim Code
-- Final Analysis Notebook (in code folder): [Notebook](code/InterimReport.ipynb) 
+- Final Analysis Notebook (in `code` folder): [Notebook](code/InterimReport.ipynb) 
 
 ---
 
 ## Final Deliverables
 
-- Final Report (in report folder): [Final Report](report/Data_Mining_Final_Report.docx)  
+- Final Report (in `report` folder): [Final Report](report/Data_Mining_Final_Report.docx)  
 - Presentation Slides (in report folder): [Final PPT](report/CS4403_Final_PPT.pdf)  
 
 ## Final Code
