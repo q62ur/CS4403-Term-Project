@@ -13,10 +13,10 @@ CS4403 Data Mining Project
 
 ## Datasets
 
-- TED transcripts (in data folder): [transcripts.zip](data/transcripts.zip) 
-- Mozilla Common Voice (in data folder): [cv-valid-train.csv](data/cv-valid-train.csv)  
+- TED transcripts (in data folder):          [transcripts.zip](data/transcripts.zip) 
+- Mozilla Common Voice (in data folder):     [cv-valid-train.csv](data/cv-valid-train.csv)  
 - Synthetic speech dataset (in data folder): [synthetic_speech_dataset_2000.csv](data/synthetic_speech_dataset_2000.csv) 
-- TED metadata (in data folder): [ted_main.csv](data/ted_main.csv)
+- TED metadata (in data folder):             [ted_main.csv](data/ted_main.csv)
 
 ---
 
