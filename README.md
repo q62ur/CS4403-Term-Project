@@ -11,27 +11,27 @@ This repository will be updated throughout the term with datasets, analysis code
 
 CS4403 Data Mining Project
 
-## Datasets
+## Datasets (in data folder)
 
-- TED transcripts (in data folder):          [transcripts.zip](data/transcripts.zip) 
-- Mozilla Common Voice (in data folder):     [cv-valid-train.csv](data/cv-valid-train.csv)  
-- Synthetic speech dataset (in data folder): [synthetic_speech_dataset_2000.csv](data/synthetic_speech_dataset_2000.csv) 
-- TED metadata (in data folder):             [ted_main.csv](data/ted_main.csv)
+- TED transcripts:          [transcripts.zip](data/transcripts.zip) 
+- Mozilla Common Voice:     [cv-valid-train.csv](data/cv-valid-train.csv)  
+- Synthetic speech dataset: [synthetic_speech_dataset_2000.csv](data/synthetic_speech_dataset_2000.csv) 
+- TED metadata:             [ted_main.csv](data/ted_main.csv)
 
 ---
 
 ## Proposal
-[Proposal](report/Term_Project_CS4403_Proposal.pdf)
+- Project Proposal (in report folder): [Proposal](report/Term_Project_CS4403_Proposal.pdf)
 
 ---
 
 ## Interim Report
-[Interim Report](report/Interim_Report_CS4403_TermProject.pdf)
+- Interim report (in report folder): [Interim Report](report/Interim_Report_CS4403_TermProject.pdf)
 
 ---
 
 ## Interim Code
-- Final Analysis Notebook: [Notebook](code/InterimReport.ipynb) 
+- Final Analysis Notebook (in code folder): [Notebook](code/InterimReport.ipynb) 
 
 ---
 
@@ -42,4 +42,4 @@ CS4403 Data Mining Project
 
 ## Final Code
 
-- Final Analysis Notebook: [Notebook](code/FinalReport.ipynb)
+- Final Analysis Notebook (in code folder): [Notebook](code/FinalReport.ipynb)
