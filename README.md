@@ -43,3 +43,11 @@ CS4403 Data Mining Project
 ## Final Code
 
 - Final Analysis Notebook (in code folder): [Notebook](code/FinalReport.ipynb)
+
+---
+
+Python Code
+
+---
+
+GitHub repository for this project was maintained and organized by Chanchal Preet Kaur.
