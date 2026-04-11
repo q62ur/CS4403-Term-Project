@@ -37,7 +37,7 @@ CS4403 Data Mining Project
 
 ## Final Deliverables
 
-- Final Report (in `report` folder): [Final Report](report/Data_Mining_Final_Report.docx)  
+- Final Report (in `report` folder): [Final Report]()  
 - Presentation Slides (in report folder): [Final PPT](report/CS4403_Final_PPT.pdf)  
 
 ## Final Code
